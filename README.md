@@ -20,19 +20,19 @@ This project develops a hybrid ARIMA-LSTM model to forecast electricity demand u
 ## Results Visualization
 
 ### Forecast Comparison
-![Forecast](forecast_comparison.png)
+![Forecast](forecast_comparison.jpeg)
 
 ### Model Performance
-![Performance](model_performance.png)
+![Performance](model_performance.jpeg)
 
 **Insight:**  
 The Hybrid model achieved the lowest RMSE, MAE, and MAPE, along with the highest R² score, demonstrating superior predictive performance.
 
 ### Residual Analysis
-![Residuals](residuals_vs_fitted.png)
+![Residuals](residuals_vs_fitted.jpeg)
 
 ### Residual Diagnostics
-![Diagnostics](residual_diagnostics.png)
+![Diagnostics](residual_diagnostics.jpeg)
 
 ## Conclusion
 The hybrid ARIMA-LSTM approach significantly improves forecasting accuracy compared to individual models. This demonstrates the effectiveness of combining statistical and machine learning techniques for real-world time series problems.
